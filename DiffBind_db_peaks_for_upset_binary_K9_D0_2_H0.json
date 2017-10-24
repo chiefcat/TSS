@@ -1,0 +1,13 @@
+{
+	"file": "http://localhost:8000/data/TSS/DiffBind_db_peaks_for_upset_binary_K9_D0_2_H0.csv",
+	"name": "TSS_db_K9",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Ensembl_geneid" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 50758 }
+	]
+}
